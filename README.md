@@ -4,11 +4,11 @@ The website aims to simplify the difficult terms related to stock market, let us
 The website is built using Dash, a python framework for building analytical web applications.  
 The following are the images of the website :
 
-# HomePage : This page contains information of the website and its contents.
+# HomePage : This page contains information about website.
 
 ![home](https://user-images.githubusercontent.com/36327997/42178496-4d1761ba-7e4e-11e8-82cc-ebcbb4e63794.png)
 
-# Live : This page gives the live info of the stock prices on th basis of comapany searched.
+# Live : This page gives the live info of the stock prices on the basis of comapany searched.
 
 ![nflx](https://user-images.githubusercontent.com/36327997/42178554-7d24fc8c-7e4e-11e8-9b1e-96051183d4b7.png)
 
